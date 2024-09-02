@@ -1,0 +1,286 @@
+core java 
+	OOps, EH, MT, Strig, Collection , arrays 
+Servlet
+	httpServlet, httpServetRequest, responce , 
+	Do get , Do Post 
+
+	 
+JSP 
+HIbernate ? 
+					save , Get, Delete, Update
+					get()
+					delete(get())
+
+					HQL : Hibernate Query Lang 
+
+	JDBC v/s Hibernate 
+	Advantage of hibernate 
+	ORM Tool 
+	Some annotations which i given yesterted to learn 
+	and steps to perform THE CRUD operation in Hibernate ?
+	mapping 
+Spring :
+	spring
+	adv
+	DI 
+		Setter, const
+	IOC
+		Bean factrioy, Applicationcontext
+	Scope
+		Singleton,prototype,Session
+		https://www.geeksforgeeks.org/servlet-form-data/
+Spring Boot : 
+
+	JPA: 
+			delete
+			DeleteAll
+			DleteById
+			DeleteOne
+			DeleteMany
+
+		Find
+		FindById
+		FindAll
+			
+				FindBYName 
+							native Querry
+							JPQL 
+	Java project 
+	Dynimic web project 
+	Maven Project 
+	Spring Stater project 
+	
+
+HQL : 
+	https://www.tutorialspoint.com/hibernate/hibernate_query_language.htm
+	https://www.javatpoint.com/hql
+	https://www.geeksforgeeks.org/hibernate-query-language/
+
+What is Spring boot 
+
+What is Advantage of Spring boot 
+
+		by default server : tomcat , jetty 
+
+
+
+From : maven repository 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+basics : 
+	Variable 
+	Data Types 
+	Operators 
+	condations : if else, Switch , for, while , do while, break, return
+	 
+OOPS
+	Inheritance 
+	polymorphism 
+	Abstraction 
+	Encupulation 
+ 
+Exception handling 
+MutiThreading 
+
+String and its methods : 
+
+	
+1)Java Program to Find the First Non-repeated Character in a String
+2)Java Program to Find Duplicate Characters in a String
+3)Java Program to Merge Two String Arrays
+4)Java Program to Remove Duplicate Words from String
+5)Java Program to Find Duplicate Elements in an Array
+6)Java Program to Find Largest Number in an Array
+7)Java Program to Calculate Average Using Arrays
+8)Java Program to Sort the Array Elements in Descending Order
+9)How to Check If the String Contains Only Letters or Digits
+10)Java Program to Find Maximum Occurring Character in String
+
+
+		Array and Collections: 
+
+
+
+
+HTML : 
+		basics tags: 
+			html. head, title , body h1-h6 , p , br, hr, pre , 
+			table  tr, td, th , thead, tbody
+			list : ol , ul, li , 
+			img , vedio 
+			form : input : text , pass, email, file, date , color , select option, dropwown , radio , check box submit , reset ect...!
+			Sementics Tags :  div, span , header , footer, aside , beside 
+			sub , sup , 
+			
+		Css : 
+			type of css : inline , internal , extenrnal
+			Selectors : id , class, tag , attrubut , * 
+			margin : top , b\utton, left , right
+			padding : ""
+			border colr:
+			bordius:
+			Bankgrounf image : color
+			BOX ,model 
+			Flux , Grid , Fab icons 
+
+		
+		Bootstracp : 
+ 
+
+
+
+
+
+		SQL :  MySQL 
+			Data Type
+			Constrinent: PK , FK , not null , Check , default , Uniquee   : done ? 
+			Type pf SQL cmds : DDl , DML , DRL , DTL 
+					DDL : Drop , rename , Alter, Create m truncate 
+					DML : insert  Delete , Update
+					DRL : Select
+					TCL : commit rollback
+			Operators : and , or , not , between , Like , order by , having cluse count , group 
+			Function : 
+					single row: upper , lower , flore , cile, round 
+					Aggration : max, min, avg, count , sum 
+			view : 
+			Joins : Inner join 
+				Outer Join : Full join, Right join , Left join 
+			ER diagrams : UML digrams  
+
+
+			PL/SQL 
+				Procedure
+				Triggers 
+				Functions 
+			 
+			https://drive.google.com/file/d/1-MP7dgiMl8gGZ_JdkbNDm4qgZZD5nK9a/view?usp=sharing
+
+
+			
+
+
+
+
+			Core java 
+			jdbc
+				servlet/jsp 
+			Mysql 
+			html 
+			css , js 
+
+			Spring : 
+				core , hibernate, mvc 
+			Spring boot 
+				
+
+
+			Angular : 
+				
+
+
+
+
+
+						HTML 
+						CSS
+						Bootsracp 
+						javaScript 
+						
+
+
+
+
+			NODE JS latest 
+			Post Man 
+			STS 
+			Visual studio code 
+
+
+JDK : 
+		java Dev kit 
+			JRE : java Runtime Env 
+
+				JVM : java virtual machin
+		
+
+		prog : 40%: sort, search ,add , delete , contins ...etc.....!
+		techn : 60 ready made 
+		Freamwork : 80 %  ready made : 
+						we have :
+
+
+				Core java : oops , eh , MT , Coll, JDBC 
+				WEB : Servlett , JSP 
+				Mobile 
+				Desktop : 
+				Spring 
+					core 
+					hibernate 
+					mvc 
+					APO 
+					JDBC 
+	
+					Spring Boot
+
+
+				HTML
+				CSS
+				JS 
+					Angular JS 
+
+			
+
+
+		JDBC :
+
+		java --------------------------------- >  Data base 
+
+
+		Prog 
+			load  : Class.Forname("com.mysql.JDBC.Driver"); add are adding the jar file or maven repo link in pom 
+			cong	Connnection con= DriverManager,getConnection("ulr","root","root");
+			stat  : Pred / set
+			Execu	: execure. ExceurtQured 
+			Close 	,con.close, Pstmt,close 
+
+
+
+
+
+		Data base : 
+			table 
+				all colume 
+				Prinmaty key 
+				colume name 
+				etc....!
+
+
+				Hibernate/ JPA : 
+				it self automaticall it will create a table . Join , PK , FK,CHK, Sequency , view etc...........! 
+
+
+				ORM Tool : 
+				Object Relation maping tool
+
+
+
+
+
+
+
+						
+								

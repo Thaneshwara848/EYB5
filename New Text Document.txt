@@ -1,0 +1,15 @@
+NOde JS ? 
+		https://nodejs.org/en/download/package-manager
+
+open cmd
+
+	jut type
+
+			node --version
+			20+
+
+
+
+Angualr : 
+			Java back end :
+			
